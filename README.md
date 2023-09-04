@@ -1,1 +1,1 @@
-# STA-391-Large-Language-Model
+# Large Language Model Exploration
